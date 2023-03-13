@@ -21,7 +21,7 @@
   </p>
 </p>
 
-<div align="center">![Contributors](https://img.shields.io/github/contributors/Pineappletwo1/PineAI?color=dark-green) ![Issues](https://img.shields.io/github/issues/Pineappletwo1/PineAI) ![License](https://img.shields.io/github/license/Pineappletwo1/PineAI)</div> 
+![Contributors](https://img.shields.io/github/contributors/Pineappletwo1/PineAI?color=dark-green) ![Issues](https://img.shields.io/github/issues/Pineappletwo1/PineAI) ![License](https://img.shields.io/github/license/Pineappletwo1/PineAI)
 
 ## Table Of Contents
 
