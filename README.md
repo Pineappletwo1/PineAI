@@ -41,7 +41,7 @@ This project is made for the 2023 hackathon
 
 ## Built With
 
-This chatbot AI is made with dialogflow and python
+This chatbot AI is made with dialogflow and python and some html for the web stuff
 
 ## Roadmap
 
