@@ -53,7 +53,7 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Pineappletwo1/PineAI/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/Pineappletwo1/PineAI/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please do not copy other people's ideas
 
 ### Creating A Pull Request
 
@@ -72,8 +72,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Pineappletwo
 * **William** - *A random person who makes websites* - [William](https://github.com/Pineappletwo1) - *Made the AI and the website*
 * **Joshua** - *A person* - [Joshua](https://github.com/Jwang0506) - *Made the video and made the training data*
 
-## Acknowledgements
 
-* []()
-* []()
-* []()
